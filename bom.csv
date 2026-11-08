@@ -1,0 +1,14 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
+STM32F722RET6,Part,1,11.30,11.30,https://www.lcsc.com/product-detail/C118207.html?s_z=n_q_STM32F722RET6,LCSC,Grant,Main microcontroller chip
+ICM-45686,Part,1,10.31,10.31,https://www.lcsc.com/product-detail/C22459454.html?s_z=n_q_ICM-45686,LCSC,Grant,Motion sensor data acquisition
+BMP580,Part,1,1.21,1.21,https://www.lcsc.com/product-detail/C22391138.html?s_z=n_q_BMP580,LCSC,Grant,Atmospheric pressure measurement
+USB Type-C 16P SMT,Part,1,0.60,0.60,https://www.lcsc.com/product-detail/USB-Connectors_hanxia-HX-TYPE-C-16P-SMT-J2-0_C42453849.html,LCSC,Grant,Programming and data transfer
+4.7kΩ resistor,Part,1,0.32,0.32,https://www.lcsc.com/product-detail/C99782.html,LCSC,Grant,I2C communication
+ST USBLC6-2SC6,Part,1,0.82,0.82,https://www.lcsc.com/product-detail/esd-and-surge-protection-tvs-esd_stmicroelectronics-usblc6-2sc6_C7519.html,LCSC,Grant,ESD protection
+"SMD tactile push button, 4 pins",Part,1,0.50,0.50,https://www.lcsc.com/product-detail/C49234134.html?s_z=n_q_l_tactile%2520switch%2520SMD,LCSC,Grant,Reset and BOOT button
+HONGLITRONIC PSC-1608U52GC-G4,Part,1,0.74,0.74,https://www.lcsc.com/product-detail/C22371297.html?s_z=n_q_0603%2520LED%2520green,LCSC,Grant,Status LED
+Samsung Electro-Mechanics CL10B104KB8NNNC,Part,1,0.72,0.72,https://www.lcsc.com/product-detail/C1591.html?s_z=n_q_t_100nf%25200603%2520capacitor,LCSC,Grant,Decoupling capacitors
+Samsung Electro-Mechanics CL10A106KP8NNNC,Part,1,0.41,0.41,https://www.lcsc.com/product-detail/C19702.html?s_z=n_q_t_10uF%25200603%2520capacitors,LCSC,Grant,Bulk capacitor
+"2.54mm, 1×04 pin header",Part,1,1.03,1.03,https://shopee.com.my/Straight-Pin-Header-MALE-Single-Double-Row-2p-3p-4p-10p-40p-2.54mm-Pitch-i.678234279.17653071533?extraParams=%7B%22display_model_id%22%3A58675164377%2C%22model_selection_logic%22%3A2%7D&image_ids=my-11134207-7r990-ly9mj2d9bfqhc3,Shopee Malaysia,Grant,debugging
+HRS DM3D-SF,Part,1,1.60,1.60,https://www.lcsc.com/product-detail/C719027.html,LCSC,Grant,MicroSD card holder
+Total,,,,29.56,,,,
