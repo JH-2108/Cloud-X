@@ -11,4 +11,9 @@ Samsung Electro-Mechanics CL10B104KB8NNNC,Part,1,0.72,0.72,https://www.lcsc.com/
 Samsung Electro-Mechanics CL10A106KP8NNNC,Part,1,0.41,0.41,https://www.lcsc.com/product-detail/C19702.html?s_z=n_q_t_10uF%25200603%2520capacitors,LCSC,Grant,Bulk capacitor
 "2.54mm, 1×04 pin header",Part,1,1.03,1.03,https://shopee.com.my/Straight-Pin-Header-MALE-Single-Double-Row-2p-3p-4p-10p-40p-2.54mm-Pitch-i.678234279.17653071533?extraParams=%7B%22display_model_id%22%3A58675164377%2C%22model_selection_logic%22%3A2%7D&image_ids=my-11134207-7r990-ly9mj2d9bfqhc3,Shopee Malaysia,Grant,debugging
 HRS DM3D-SF,Part,1,1.60,1.60,https://www.lcsc.com/product-detail/C719027.html,LCSC,Grant,MicroSD card holder
-Total,,,,29.56,,,,
+DIODES AP2112K-3.3TRG1,Part,1,0.92,0.92,https://www.lcsc.com/product-detail/C51118.html?s_z=n_q_%2520C51118&globalKeyword=%2520C51118,LCSC,Grant,converts raw power input to save voltage level
+YAGEO RC0805JR-072ML,Part,1,0.26,0.26,https://www.lcsc.com/product-detail/C137452.html?s_z=n_q_C137452&globalKeyword=C137452,LCSC,Grant,Protects the circuit if battery is placed incorrectly
+UNI-ROYAL 0603WAF5101T5E,Part,1,0.16,0.16,https://www.lcsc.com/product-detail/C23186.html?s_z=n_q_C23186&globalKeyword=C23186,LCSC,Grant,tie CC1 and CC2 to GND
+AOS AO3400A,Part,1,0.45,0.45,https://www.lcsc.com/product-detail/C20917.html?s_z=n_q_C20917&globalKeyword=C20917,LCSC,Grant,Ignites parachutes when MCU detects apogee
+UNI-ROYAL 0603WAF1002T5E,Part,1,0.22,0.22,https://www.lcsc.com/product-detail/C25804.html?s_z=n_q_C25804&globalKeyword=C25804,LCSC,Grant,"Manages boot configuration, ensures clean SD logging, and measures battery."
+Total,,,,31.57,,,,
