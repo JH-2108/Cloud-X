@@ -1,4 +1,4 @@
-# Rocket 
+# Cloud-X
 An educational model rocketry project exploring aerospace engineering, embedded programming and systems, electronics design and flight-data analysis
 
 # Overview
