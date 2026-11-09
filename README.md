@@ -48,9 +48,13 @@ Firmware development focuses on:
 - USB communication
 - Diagnostic information
 
+# Payload Ejection Plan
+A motor engine would be used to propel the rocket upwards, upon hitting the apogee, the PCB would send out a tiny electrical signal to the e-matches, allowing the nose cone to release, the nose cone and the rest of the rocket body is connected through a shock cord, where the parachute would be opened closer to the nose cone instead, giving a large space for the flight controller to be released. This flight controller will  then measure altitude, atmospheric pressure, acceleration, and more, all of which is written onto an microSD card within the rocket flight controller itself. 
+
 # Development tools 
 - KiCAD: PCB and schematic design
 - STM32CubeIDE: Embedded development
+- OpenRocket software: Rocket designing 
 
 # Safety 
 This repository documents an educational aerospace engineering project. Any physical rocketry activities must follow applicable laws, recognized model rocketry safety standards and qualified adult supervision. 
