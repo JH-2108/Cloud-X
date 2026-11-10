@@ -95,4 +95,10 @@ The electronics documentation is **NOT** an instruction manual for constructing 
 
 # Project pictures 
 
-All added later on
+**Schematics**
+
+<img width="1350" height="831" alt="image" src="https://github.com/user-attachments/assets/cce0d5b8-31d9-43df-8252-6c88c7a6923e" />
+
+**PCB**
+
+
