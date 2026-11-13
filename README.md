@@ -101,4 +101,15 @@ The electronics documentation is **NOT** an instruction manual for constructing 
 
 **PCB**
 
+<img width="741" height="732" alt="Screenshot 2026-11-12 021925" src="https://github.com/user-attachments/assets/61cab373-5f29-4301-b85b-588c4785163a" />
+
+**PCB 3D RENDERED**
+
+<img width="663" height="667" alt="Screenshot 2026-11-12 021939" src="https://github.com/user-attachments/assets/4a6a556c-688f-4918-9de5-0de1931d1668" />
+
+
+**Avionics Bay**
+
+<img width="481" height="571" alt="image" src="https://github.com/user-attachments/assets/0079ad6d-ba7c-4d86-99c4-7617014c6693" />
+
 
