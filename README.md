@@ -113,3 +113,6 @@ The electronics documentation is **NOT** an instruction manual for constructing 
 <img width="481" height="571" alt="image" src="https://github.com/user-attachments/assets/0079ad6d-ba7c-4d86-99c4-7617014c6693" />
 
 
+**OpenRocket Software Rocket Design**
+
+<img width="1767" height="407" alt="image" src="https://github.com/user-attachments/assets/c95ab5f6-0d8a-4ceb-9998-32dceb5be69f" />
